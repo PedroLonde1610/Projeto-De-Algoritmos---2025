@@ -1,0 +1,179 @@
+# depslib dependency file v1.0
+1763256184 source:c:\users\particular\desktop\entrega 5\bubblesort.cpp
+	<iostream>
+	<vector>
+	"bubblesort.h"
+	<string>
+	<fstream>
+	<ctime>
+
+1763256199 c:\users\particular\desktop\entrega 5\bubblesort.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<direct.h>
+
+1763256217 source:c:\users\particular\desktop\entrega 5\filaprioridademinima.cpp
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+	<direct.h>
+	"filaprioridademinima.h"
+
+1763256232 c:\users\particular\desktop\entrega 5\filaprioridademinima.h
+	<iostream>
+	<vector>
+	<fstream>
+	<string>
+
+1763256250 source:c:\users\particular\desktop\entrega 5\geradorcrescente.cpp
+	<iostream>
+	<vector>
+	"geradorcrescente.h"
+	<fstream>
+	<string>
+
+1763256265 c:\users\particular\desktop\entrega 5\geradorcrescente.h
+	<iostream>
+	<vector>
+
+1763256285 source:c:\users\particular\desktop\entrega 5\geradordecrescente.cpp
+	<iostream>
+	<vector>
+	"geradordecrescente.h"
+	<fstream>
+	<string>
+
+1763256300 c:\users\particular\desktop\entrega 5\geradordecrescente.h
+	<iostream>
+	<vector>
+
+1763256313 source:c:\users\particular\desktop\entrega 5\geradorrandom.cpp
+	<random>
+	"geradorrandom.h"
+	<fstream>
+	<string>
+
+1763256327 c:\users\particular\desktop\entrega 5\geradorrandom.h
+	<vector>
+
+1763256339 source:c:\users\particular\desktop\entrega 5\heapsortmin.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<direct.h>
+	"heapsortmin.h"
+
+1763256354 c:\users\particular\desktop\entrega 5\heapsortmin.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<direct.h>
+
+1763256370 source:c:\users\particular\desktop\entrega 5\insertionsort.cpp
+	<iostream>
+	<vector>
+	"insertionsort.h"
+	<string>
+	<fstream>
+	<ctime>
+	<direct.h>
+
+1763256384 c:\users\particular\desktop\entrega 5\insertionsort.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<direct.h>
+
+1763256392 source:c:\users\particular\desktop\entrega 5\main.cpp
+	<iostream>
+	<vector>
+	<direct.h>
+	"InsertionSort.h"
+	"selectionsort.h"
+	"bubblesort.h"
+	"shellsort.h"
+	"mergesort.h"
+	"quicksort.h"
+	"GeradorCrescente.h"
+	"GeradorDecrescente.h"
+	"GeradorRandom.h"
+	"heapsortmin.h"
+	"filaprioridademinima.h"
+
+1763256473 c:\users\particular\desktop\entrega 5\selectionsort.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<direct.h>
+
+1763256494 c:\users\particular\desktop\entrega 5\shellsort.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<direct.h>
+
+1763256417 c:\users\particular\desktop\entrega 5\mergesort.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<direct.h>
+
+1763256446 c:\users\particular\desktop\entrega 5\quicksort.h
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<ctime>
+	<direct.h>
+
+1763256406 source:c:\users\particular\desktop\entrega 5\mergesort.cpp
+	<iostream>
+	<vector>
+	"mergesort.h"
+	<string>
+	<fstream>
+	<ctime>
+	<direct.h>
+
+1763256435 source:c:\users\particular\desktop\entrega 5\quicksort.cpp
+	<iostream>
+	<vector>
+	"quicksort.h"
+	<string>
+	<fstream>
+	<ctime>
+	<direct.h>
+
+1763256461 source:c:\users\particular\desktop\entrega 5\selectionsort.cpp
+	<iostream>
+	<vector>
+	"selectionsort.h"
+	<string>
+	<fstream>
+	<ctime>
+	<direct.h>
+
+1763256484 source:c:\users\particular\desktop\entrega 5\shellsort.cpp
+	<iostream>
+	<vector>
+	"shellsort.h"
+	<string>
+	<fstream>
+	<ctime>
+
